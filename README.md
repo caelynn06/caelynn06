@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hey,%20I'm%20Caelyn&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20%2B%20EE%20student%20building%20software%20that%20flies&descAlignY=58&descSize=18" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7DD3FC&center=true&vCenter=true&width=640&lines=Embedded+software+%2B+computer+vision+%2B+ML;ROS+2+and+C%2B%2B+on+UAVs+and+UGVs;Rocket+test+data+that+actually+gets+used;Former+animation+and+architecture+student;Currently+at+UTEP+in+El+Paso%2C+TX" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7DD3FC&center=true&vCenter=true&width=640&lines=Embedded+software+%2B+computer+vision+%2B+ML;ROS+2+and+C%2B%2B+on+UAVs+and+UGVs;Rocket+test+data+that+actually+gets+used;;Currently+at+UTEP+in+El+Paso%2C+TX" alt="typing intro" />
 </a>
 
 <br/>
@@ -30,7 +30,7 @@ My north star is **embedded software combined with computer vision and ML**, the
 | --- | --- |
 | 🚀 **Blue Origin** | Data science and ML on supply chain software, data pipelines, and part data analysis |
 | 🔥 **Sierra Lobo (NASA test facility)** | Full stack database system that supports rocket testing operations |
-| 🤖 **UTEP Robotics and Automation Society** | ROS 2 and C++ on a UAV and UGV system as part of the Electrical and Software team |
+| 🤖 **UTEP Robotics and Automation Society** | ROS 2 and C++ on a UAV and UGV system as part of the Software team |
 | 🧠 **Undergraduate research** | Applying machine learning to medical decision making |
 | 🌙 **Course research** | Deep learning for identifying water ice from lunar reflectance spectra |
 | 🧑‍🚀 **Sun City Rocket Team** | Special Projects member |
